@@ -11,7 +11,6 @@
   <pre>
     💻 Estudiante de Ingenieria en Sistemas Computacionales
     📚 Instituto Tecnológico de Chilpancingo
-    📝 Creador de contenido !
   </pre>
 </div>
 
