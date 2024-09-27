@@ -11,6 +11,9 @@
   <pre>
     💻 Estudiante de Ingenieria en Sistemas Computacionales
     📚 Instituto Tecnológico de Chilpancingo
+    📚 Aplicación de escritorio desarrollado en Java
+    para el area de coordinación de Ingenieria Civil
+    en el Instituto Tecnológico de Chilpancingo.
   </pre>
 </div>
 
